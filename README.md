@@ -1,2 +1,3 @@
-# ICT-SR
-Industrial CT Image Restoration
+# Towards Real-World Image Super-Resolution for Industrial CT: A
+New Dataset and Method
+
